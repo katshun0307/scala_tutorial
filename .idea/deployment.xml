@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="biome_aws">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/project" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="biome_image_recognition_training_server">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/project" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="deep01">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/project" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ec2-user@ec2-13-112-242-135.ap-northeast-1.compute.amazonaws.com:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/project" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
